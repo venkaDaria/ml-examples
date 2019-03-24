@@ -1,5 +1,5 @@
 .vscode/
 .ipynb_checkpoints/
+.ipynb
 **/data/**
 !**/data/.gitignore
-**/ner-uk-master/**
